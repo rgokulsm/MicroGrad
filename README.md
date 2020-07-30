@@ -1,2 +1,2 @@
 # MicroGrad
-A Centralized Framework for WorkloadCloning and Stress Testing
+A Centralized Framework for Workload Cloning and Stress Testing
